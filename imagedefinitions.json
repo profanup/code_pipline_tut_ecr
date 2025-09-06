@@ -1,7 +1,7 @@
 [
   {
     "name": "hello-world",
-    "imageUri": "ACCOUNT-ID.dkr.ecr.us-east-1.amazonaws.com/actions/image-repo"
+    "imageUri": "851725532748.dkr.ecr.us-east-1.amazonaws.com/codepilinetut"
   }
 ]
 
